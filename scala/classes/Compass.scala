@@ -1,9 +1,3 @@
-class Person(firstName: String, lastname: String)
-
-val gump = new Person("Elvis", "Presley")
-
-println(gump)
-
 class Compass {
     val directions = List("north", "east", "south", "west")
     var bearing = 0
